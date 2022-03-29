@@ -1,0 +1,29 @@
+form {
+  margin: 4rem;
+  height: 16rem;
+  font-size: 1rem;
+}
+
+.form-group{
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.form-control{
+  margin-bottom: 0.4rem;
+  margin-top: 0.8rem;
+  display: block;
+}
+
+form spin , p , label,select{
+  float: left;
+}
+
+form label,select{
+  margin-right: 1rem;
+}
+
+form input[type="number"]
+{
+  float:left;
+}
